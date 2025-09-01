@@ -15,6 +15,12 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "prisma": "^6.15.0"
+    "@tailwindcss/postcss": "^4.1.12",
+    "@types/node": "24.3.0",
+    "@types/react": "19.1.12",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "prisma": "^6.15.0",
+    "tailwindcss": "^4.1.12"
   }
 }
